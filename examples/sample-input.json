@@ -1,0 +1,15 @@
+{
+  "baseline": {
+    "name": "base",
+    "data": {
+      "port": 80
+    }
+  },
+  "current": {
+    "name": "prod",
+    "data": {
+      "port": 443,
+      "password": "x"
+    }
+  }
+}
